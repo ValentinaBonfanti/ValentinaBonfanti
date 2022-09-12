@@ -50,4 +50,16 @@
 <img src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
+<br>
 
+&nbsp;
+
+## :pushpin: My proyects
+
+<a href="https://pi-pokemon-six.vercel.app/" target="_blank" rel="noreferrer"><h3>POKEAPP</h3></a>
+<p>It's my first proyect, is a SPA about pokemons entirely developed by me.You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
+
+<br>
+
+<a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS</h3></a>
+<p>This is an application that we developed in group for the final proyect in Henry's Bootcamp. It's about a page where you can take dates with differents doctors in a hospital, also, in the patient panel view, you can modify your profile once you're login and you can cancel the dates if you have to. The page have two more panels of control, one for the doctor side and one for the adiministrator, they can manage differents things too, like holidays, schedules, statics and more. </p>
