@@ -54,7 +54,7 @@
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My projects
 
 <a href="https://pi-pokemon-six.vercel.app/" target="_blank" rel="noreferrer"><h3>POKEAPP</h3></a>
 <p>It's my first proyect, is a SPA about pokemons entirely developed by me.You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
