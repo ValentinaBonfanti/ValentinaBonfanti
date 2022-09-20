@@ -72,13 +72,13 @@
 <p>This is an application that we developed in group for the final proyect in Henry's Bootcamp. It's about a page where you can take dates with differents doctors in a hospital, also, in the patient panel view, you can modify your profile once you're login and you can cancel the dates if you have to. The page have two more panels of control, one for the doctor side and one for the adiministrator, they can manage differents things too, like holidays, schedules, statics and more. </p>
 <p>
   <a><img src="img/PF-HOME.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF-DOCOTRESHOME.jpeg" height="140" width="200"></a>
+  <a><img src="img/PF-DOCTORESHOME.jpeg" height="140" width="200"></a>
   <a><img src="img/PF-TURNERO.jpeg" height="140" width="200"></a>
   <a><img src="img/PF- PLATAFORMAPAGO.jpeg" height="140" width="200"></a>
   
 </p>
 <p>
-  <a><img src="img/PF-DOCTORES.jpeg" height="140" width="200"></a>
+  <a><img src="img/PF-DOCOTORES.jpeg" height="140" width="200"></a>
   <a><img src="img/PF-TURNOSPENDIENTES.jpeg" height="140" width="200"></a>
   <a><img src="img/PF- STATS1.jpeg" height="140" width="200"></a>
   <a><img src="img/PF-STATS2.jpeg" height="140" width="200"></a>
