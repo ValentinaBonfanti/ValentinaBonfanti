@@ -21,8 +21,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
 - 💼 &nbsp; I'm currently looking for work.
-- 🌱 &nbsp; Learning more about SCRUM, React, React Native and different frameworks.
-- ✍️ &nbsp; I'm currently working on a group project.
 <h3>Tech Stack</h3>
 
 <p>
