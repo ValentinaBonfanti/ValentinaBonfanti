@@ -52,33 +52,3 @@
 
 &nbsp;
 
-## :pushpin: My projects
-
-<a href="https://pi-pokemon-six.vercel.app/" target="_blank" rel="noreferrer"><h3>POKEAPP</h3></a>
-<p>It's my first proyect, is a SPA about pokemons entirely developed by me.You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
-<p>
-  <a><img src="img/PORTADA PI.png" height="140" width="200"></a>
-  <a><img src="img/homePi.png" height="140" width="200"></a>
-  <a><img src="img/detailPi.png" height="140" width="200"></a>
-  <a><img src="img/formPi.png" height="140" width="200"></a>
-  
-</p>
-
-<br>
-
-<a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS</h3></a>
-<p>This is an application that we developed in group for the final proyect in Henry's Bootcamp. It's about a page where you can take dates with differents doctors in a hospital, also, in the patient panel view, you can modify your profile once you're login and you can cancel the dates if you have to. The page have two more panels of control, one for the doctor side and one for the adiministrator, they can manage differents things too, like holidays, schedules, statics and more. </p>
-<p>
-  <a><img src="img/PF-HOME.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF-DOCTORESHOME.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF-TURNERO.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF- PLATAFORMAPAGO.jpeg" height="140" width="200"></a>
-  
-</p>
-<p>
-  <a><img src="img/PF-DOCOTORES.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF-TURNOSPENDIENTES.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF- STATS1.jpeg" height="140" width="200"></a>
-  <a><img src="img/PF-STATS2.jpeg" height="140" width="200"></a>
-  
-</p>
