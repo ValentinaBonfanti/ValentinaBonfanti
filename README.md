@@ -53,5 +53,3 @@ I am a proactive person who constantly seeks to learn new things. I enjoy pushin
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br>
-
-
